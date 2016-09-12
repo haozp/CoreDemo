@@ -19,6 +19,7 @@
 
     self.view.backgroundColor = [UIColor whiteColor];
     NSLog(@"处理一些问题");
+    NSLog(@"问题处理的怎么样了？？？");
 
 }
 
